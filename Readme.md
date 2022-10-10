@@ -19,7 +19,7 @@ node index.js
 Vous devriez voir apparaitre une question vous demandant le nom du premier tennisman.
 
 #### Explication des commandes
-Une fois que vous aurez rempli le nom de vos 2 tennisman, 4 choix s'offrent à vous :
+Une fois que vous aurez rempli le nom de vos 2 tennisman, 5 choix s'offrent à vous :
 1. <strong>score</strong> : affiche le score actuel
 2. <strong>p1</strong> : Le joueur 1 marque 1 point
 3. <strong>p2</strong> : le joueur 2 marque 1 point
